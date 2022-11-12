@@ -1,0 +1,1 @@
+The 24 Game is an arithmetical card game in which the objective is to find a way to manipulate four integers so that the end result is 24. You can use +-×÷ and ().
