@@ -15,3 +15,6 @@ notes: it's finished on 2020 but due to some accident, the file is uploaded agai
 - poem reading
 
 ## Introduction Video
+
+https://www.youtube.com/watch?v=gZGnEHqLv2w
+
